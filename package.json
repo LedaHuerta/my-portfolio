@@ -1,0 +1,23 @@
+{
+    "name": "my-portfolio",
+    "version": "1.0.0",
+    "description": "Portafolio de proyectos Leda Michelle Huerta Recinas",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/LedaHuerta/my-portfolio.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/LedaHuerta/my-portfolio/issues"
+    },
+    "homepage": "https://github.com/LedaHuerta/my-portfolio#readme",
+    "dependencies": {
+        "create-react-app": "^3.1.2"
+    }
+}
