@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/LedaHuerta/my-portfolio.git/static/css/main.6852bada.chunk.css",
-    "main.js": "/LedaHuerta/my-portfolio.git/static/js/main.02c82e9b.chunk.js",
-    "main.js.map": "/LedaHuerta/my-portfolio.git/static/js/main.02c82e9b.chunk.js.map",
-    "runtime-main.js": "/LedaHuerta/my-portfolio.git/static/js/runtime-main.91416793.js",
-    "runtime-main.js.map": "/LedaHuerta/my-portfolio.git/static/js/runtime-main.91416793.js.map",
-    "static/js/2.6cc25d92.chunk.js": "/LedaHuerta/my-portfolio.git/static/js/2.6cc25d92.chunk.js",
-    "static/js/2.6cc25d92.chunk.js.map": "/LedaHuerta/my-portfolio.git/static/js/2.6cc25d92.chunk.js.map",
-    "index.html": "/LedaHuerta/my-portfolio.git/index.html",
-    "precache-manifest.4b8a4289fab2053f9d9395c0a776db83.js": "/LedaHuerta/my-portfolio.git/precache-manifest.4b8a4289fab2053f9d9395c0a776db83.js",
-    "service-worker.js": "/LedaHuerta/my-portfolio.git/service-worker.js",
-    "static/css/main.6852bada.chunk.css.map": "/LedaHuerta/my-portfolio.git/static/css/main.6852bada.chunk.css.map"
+    "main.css": "./static/css/main.6852bada.chunk.css",
+    "main.js": "./static/js/main.ffc3cd5e.chunk.js",
+    "main.js.map": "./static/js/main.ffc3cd5e.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.a6092bb8.js",
+    "runtime-main.js.map": "./static/js/runtime-main.a6092bb8.js.map",
+    "static/js/2.6cc25d92.chunk.js": "./static/js/2.6cc25d92.chunk.js",
+    "static/js/2.6cc25d92.chunk.js.map": "./static/js/2.6cc25d92.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.b08777750982d51386f7d2916c0babce.js": "./precache-manifest.b08777750982d51386f7d2916c0babce.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.6852bada.chunk.css.map": "./static/css/main.6852bada.chunk.css.map"
   }
 }
