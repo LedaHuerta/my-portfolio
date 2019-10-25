@@ -1,6 +1,7 @@
 {
-    "name": "my-portfolio",
+    "name": "portfolio-leda-huerta",
     "version": "1.0.0",
+    "private": false,
     "description": "Portafolio de proyectos Leda Michelle Huerta Recinas",
     "main": "index.js",
     "scripts": {
@@ -16,7 +17,7 @@
     "bugs": {
         "url": "https://github.com/LedaHuerta/my-portfolio/issues"
     },
-    "homepage": "https://github.com/LedaHuerta/my-portfolio#readme",
+    "homepage": ".",
     "dependencies": {
         "create-react-app": "^3.1.2"
     }
