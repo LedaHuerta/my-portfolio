@@ -1,7 +1,7 @@
 {
-    "name": "my-portpholio",
+    "name": "portfolio-leda-huerta",
     "version": "0.1.0",
-    "private": true,
+    "private": false,
     "homepage": ".",
     "dependencies": {
         "react": "^16.9.0",
